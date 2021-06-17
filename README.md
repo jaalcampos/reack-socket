@@ -1,2 +1,2 @@
 # reack-socket
-This repo contains some project using web sockets 
+This repo contains some projects using web sockets 
